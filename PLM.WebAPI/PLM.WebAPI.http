@@ -1,0 +1,6 @@
+@PLM.WebAPI_HostAddress = http://localhost:5263
+
+GET {{PLM.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
